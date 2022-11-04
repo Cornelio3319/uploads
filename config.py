@@ -2,7 +2,7 @@ import os
 import ProxyCloud
 
 #Bot Config
-BOT_TOKEN = os.environ.get('bot_token','')
+BOT_TOKEN = os.environ.get('bot_token'5715963802:AAHm3NR6OnFh9-EYXbE-SCqC3lqYEjBSAs0'')
 #Storage Config
 BASE_ROOT_PATH = 'root/'
 #Account Config
