@@ -4,7 +4,7 @@ Bot De Telegram : OwnCloudUploader, Descargador gratis de contenido desde intern
 # Deploy Usando Git Win Y Heroku Cli Desde PC
 ```
 (CMD)
-git clone https://github.com/ObisoftDev/TGFreeFileSync
+git clone https://github.com/Yadier948/Gratisupload
 git init
 git add .
 git commit -m "OK"
@@ -22,6 +22,6 @@ git push heroku master
 ```
 
 # Deploy Directo (Heroku)
-[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Freecubaa/gratis-)
+[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yadier948/Gratisupload-)
 
 
