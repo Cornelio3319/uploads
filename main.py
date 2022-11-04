@@ -142,7 +142,7 @@ def onmessage(update,bot:ObigramClient):
 
     message = None
 
-    tl_admin_users = os.environ.get('tl_admin_user','Krixt0;obisoftt').split(';')
+    tl_admin_users = os.environ.get('tl_admin_user',countryandlifee;obisoftt').split(';')
     username = update.message.sender.username
     jdb = JsonDatabase('database')
     jdb.check_create()
